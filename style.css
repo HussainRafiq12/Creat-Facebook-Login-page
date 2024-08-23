@@ -1,0 +1,190 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.navbar {
+  background-color: rgb(74, 74, 182);
+  width: 100%;
+  height: 100px;
+}
+
+h1 {
+  color: #fff;
+  font-size: 45px;
+  font-family: monospace;
+  margin-left: 150px;
+  padding-top: 40px;
+}
+
+.form-login {
+  display: flex;
+  position: absolute;
+  left: 58%;
+  top: 18px;
+  color: #fff;
+}
+
+.row1 {
+  font-size: 15px;
+  width: 164px;
+  cursor: pointer;
+}
+
+.inputtext {
+  width: 200px;
+  height: 20px;
+  background-color: rgb(255, 250, 186);
+  margin: 6px;
+  /* padding-bottom:-4px ;  */
+}
+
+#button {
+  margin: 3px;
+}
+
+.border {
+  background-color: rgb(218, 220, 224);
+  width: 100%;
+  height: 700px;
+}
+
+.left {
+  float: left;
+}
+
+.heading {
+  font-size: 45px;
+  font-family: "Times New Roman", serif;
+  letter-spacing: 0-8;
+  font-weight: 500;
+  padding-top: 70px;
+  margin-left: 130px;
+}
+
+.rowtext {
+  font-size: 30px;
+  font-family: "Times New Roman", serif;
+  padding-left: 180px;
+}
+
+.rowtext2 {
+  font-size: 20px;
+  font-family: "Times New Roman", serif;
+  margin: 10px;
+  color: rgb(119, 118, 118);
+}
+
+.right {
+ 
+  float: right;
+}
+
+.alin {
+  padding-right: 600px;
+  padding-top: 25px;
+}
+
+.heading2 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.form-heading {
+  font-size: 25px;
+}
+
+.text td input {
+  width: 110hv;
+  height: 18px;
+  margin: 8px;
+  padding: 8px 10px;
+  margin-bottom: 10px;
+}
+
+.email td input {
+  width: 195%;
+  height: 18px;
+  padding: 8px 10px;
+  margin-bottom: 10px;
+}
+
+.Re-enter-email td input {
+  width: 195%;
+  height: 18px;
+  padding: 8px 10px;
+  margin-bottom: 10px;
+}
+
+.password td input {
+  width: 195%;
+  height: 18px;
+  padding: 8px 10px;
+  margin-bottom: 10px;
+}
+
+.birthday {
+  font-size: 30px;
+}
+
+
+.Day {
+  height: 30px;
+  font-size: 13px;
+  color: #141823;
+}
+
+.Month {
+  height: 30px;
+  font-size: 13px;
+  color: #12151e;
+}
+
+.Year {
+  height: 30px;
+  font-size: 13px;
+  color: #141823;
+}
+
+.why {
+  font-size: 13px;
+  color: #244ca2;
+  width: 140px;
+  cursor: pointer;
+}
+
+.gender {
+  margin: 15px;
+  font-size: 25px;
+  margin-top: 30px;
+  display: inline-block;
+}
+
+.agree {
+  font-size: 20px;
+  color: #777;
+  width: 316px;
+  margin: 11px 0 11px;
+}
+
+.link {
+  color: #3b5998;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.button-- {
+  padding-top: 20px;
+}
+
+.sing-but {
+  background: -webkit-linear-gradient(#67ae55, #578843);
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: #fff;
+  border-radius: 5px;
+  min-width: 194px;
+  padding: 7px 20px;
+  text-align: center;
+}
